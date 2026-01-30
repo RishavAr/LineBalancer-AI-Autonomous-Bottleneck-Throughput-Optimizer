@@ -4,7 +4,7 @@
 
 An AI-powered agent system that detects bottlenecks, predicts delays, and recommends line reconfiguration — like a senior industrial engineer in software.
 
-![LineBalancer AI Dashboard](docs/dashboard-preview.png)
+
 
 ---
 
